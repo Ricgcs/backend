@@ -1,0 +1,29 @@
+[
+{
+    "id":"1",
+    "nome":"1984",
+    "genero":"distopia",
+    "autor":"George Orwel",
+    "classificação":"muito bom"
+   
+
+},
+{
+    "id":"2",
+    "nome":"poesia que transforma",
+    "genero":"Poemas",
+    "autor":"Braulio Bessa",
+    "classificação":"Transformador"
+   
+
+},
+{
+    "id":"3",
+    "nome":"O auto da barca do inferno",
+    "genero":"Teatro",
+    "autor":"Gil Vicente",
+    "classificação":"Interressante"
+   
+
+}
+]

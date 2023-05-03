@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "titulo": "Starfield",
+        "imagem": "https://windowsclub.com.br/wp-content/uploads/2021/06/starfield-4.jpg",
+        "descricao": "Starfield é um futuro jogo eletrônico de RPG de ação e ficção em desenvolvimento pela Bethesda Game Studios, publicado pela Bethesda Softworks e distribuído pela Microsoft.",
+        "data": "6 de setembro de 2023"
+    },
+    {
+        "id": "2",
+        "titulo": "Star Wars Jedi: Survivor",
+        "imagem": "https://assetsio.reedpopcdn.com/7E398163-2CC2-41F8-B2EB-89A7A8E97539.jpeg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "descricao": "Star Wars Jedi: Survivor é um próximo jogo de ação e aventura desenvolvido pela Respawn Entertainment e publicado pela Electronic Arts. Uma sequência de Star Wars Jedi: Fallen Order",
+        "data": "28 de abril de 2023" 
+    },
+    {
+        "id": "3",
+        "titulo": "Diablo IV",
+        "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0522/LyMvvtJKdWnMS9JsqxobPYAP.jpg",
+        "descricao": "RPG de ação em desenvolvimento pela Blizzard Entertainment, o quarto título da série Diablo.",
+        "data": "6 de junho de 2023"  
+    },
+    {
+        "id": "4",
+        "titulo": "The Legend of Zelda: Tears of the Kingdom",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/25/Zelda_TotK_capa.jpg",
+        "descricao": "É um futuro jogo eletrônico de ação-aventura desenvolvido e publicado pela Nintendo. Faz parte da série The Legend of Zelda, e é a sequência de The Legend of Zelda: Breath of the Wild.",
+        "data": "12 de maio de 2023"  
+    },
+    {
+        "id": "5",
+        "titulo": "Hogwarts Legacy",
+        "imagem": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-2baf3188eb3c1aa248bcc1af6a927b7e",
+        "descricao": "RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros. Interactive Entertainment sob o selo Portkey Games. O jogo é ambientado no final do século XIX do universo de Harry Potter, um século antes dos eventos narrados nos livros de J.K. Rowling.",
+        "data": "7 de fevereiro de 2023"
+    }
+  ]
+  
